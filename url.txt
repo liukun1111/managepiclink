@@ -9,3 +9,4 @@ $('On form submission').first().json.AddLink
 445.com
 678.com
 https://alist.lkii.me
+acg.us.kg
